@@ -1,0 +1,67 @@
+body{
+    font-family: 'Redressed', cursive;
+
+}
+h1{
+    font-size:50px;
+
+}
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left:5%;
+    float:left;
+}
+.half-width img{
+    width: 100%;
+}
+.section{
+    padding-bottom: 100px;
+    height: 500px;
+}
+.top-banner{background-image: url("pic/top-banner.png");
+    background-repeat: no-repeat;
+}
+.link-btn{
+    color: white;
+    background-image: linear-gradient(45deg lightsalmon,tomato);
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.dream-area{
+    background-image:url("pic/my-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.exprience-area{
+    background-image:ur("pic//exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    border-image: linear-gradient (140deg,lightsalmon,tomato);
+    border-image-slice:1;
+}
+.exprience-area{
+    box-shadow: 10px 10px 40px gray;
+    border-radius:5px ;
+    height: 80%;
+    background-color: #fff;
+}
+#font-end { 
+    border-left: 7px solid;
+    border-image: liner-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1 ;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image:liner-gradient(180deg,blue,cyan);
+    border-image-slice:1;
+}
+footer{
+    font-size: 10px;
+}
