@@ -63,6 +63,10 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+#dream {
+    color: black;
+    font-size: 20px;
+}
 .single-exprience {
     box-shadow: 10px 10px 50px grey;
     height: 60%;
@@ -93,8 +97,4 @@ footer p {
 
     color: grey;
     clear: both;
-}
-#dream {
-    color: black;
-    font-size: 20px;
 }
