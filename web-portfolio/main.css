@@ -10,7 +10,7 @@ h1{
     color: orange;
 }
 .half-width{
-    width: 40%;
+    width: 39%;
     margin-left: 5%;
     padding-left:5%;
     float:left;
@@ -45,6 +45,7 @@ h1{
     background-position: left;
     border-image: linear-gradient (140deg,lightsalmon,tomato);
     border-image-slice:1;
+    clear: both;
 }
 .single-exprience{
     box-shadow: 10px 10px 40px gray;
@@ -63,5 +64,7 @@ h1{
     border-image-slice:1;
 }
 footer{
+    text-align: center;
     font-size: 10px;
+    clear: both;
 }
